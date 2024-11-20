@@ -1,0 +1,41 @@
+name: digitallife
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.3.1
+  cupertino_icons: ^1.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/assets/del.png
+    - images/assets/trans.png
+    - images/assets/img.png
+    - images/assets/pass.png
+    - images/assets/roisbleu.jpg
+    - images/assets/deliveryman.png
+    - images/assets/food_logo.png
+    - images/assets/plat2.jpg
+    - images/assets/didi.png
+    - images/assets/plat3.jpg
+    - images/assets/plat4.jpg
+    - images/assets/plat5.jpg
+    - images/assets/plat6.jpg
+    - images/assets/plat7.jpg
+    - images/assets/phonedelivery.png
+
